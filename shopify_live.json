@@ -1,0 +1,30 @@
+{
+  "updated": "31/07/2026 18:20h",
+  "paniersEnCours": 0,
+  "fenetres": {
+    "depuisLancement": {
+      "ca": 0,
+      "ventes": 0,
+      "aov": 0.0,
+      "marge": 0.0
+    },
+    "j3": {
+      "ca": 0,
+      "ventes": 0,
+      "aov": 0.0,
+      "marge": 0.0
+    },
+    "hier": {
+      "ca": 0,
+      "ventes": 0,
+      "aov": 0.0,
+      "marge": 0.0
+    },
+    "total": {
+      "ca": 0,
+      "ventes": 0,
+      "aov": 0.0,
+      "marge": 0.0
+    }
+  }
+}

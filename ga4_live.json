@@ -1,0 +1,84 @@
+{
+  "updated": "31/07/2026 18:20h",
+  "fenetres": {
+    "depuisLancement": {
+      "sessions": 27,
+      "sessionsAN": 0,
+      "sessionsHorsAN": 27
+    },
+    "j3": {
+      "sessions": 27,
+      "sessionsAN": 0,
+      "sessionsHorsAN": 27
+    },
+    "hier": {
+      "sessions": 16,
+      "sessionsAN": 0,
+      "sessionsHorsAN": 16
+    }
+  },
+  "channelBreakdown": [
+    {
+      "channel": "Organic Social",
+      "sessions": 10
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 7
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 4
+    },
+    {
+      "channel": "Direct",
+      "sessions": 3
+    },
+    {
+      "channel": "Paid Other",
+      "sessions": 3
+    }
+  ],
+  "parCrea": [
+    {
+      "crea": "(sans tag)",
+      "sessions": 7
+    },
+    {
+      "crea": "Vidéo C",
+      "sessions": 4
+    },
+    {
+      "crea": "Vidéo+C",
+      "sessions": 4
+    },
+    {
+      "crea": "Vidéo+B",
+      "sessions": 4
+    },
+    {
+      "crea": "52664764935624",
+      "sessions": 3
+    },
+    {
+      "crea": "Nouvelle publicité de Ventes",
+      "sessions": 1
+    },
+    {
+      "crea": "Nouvelle+publicité+de+Ventes",
+      "sessions": 1
+    },
+    {
+      "crea": "STATIQUE 1",
+      "sessions": 1
+    },
+    {
+      "crea": "STATIQUE 5",
+      "sessions": 1
+    },
+    {
+      "crea": "STATIQUE+5",
+      "sessions": 1
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "updated": "31/07/2026 18:20h",
+  "placements": [
+    {
+      "plateforme": "audience_network",
+      "position": "rewarded_video",
+      "spend": 24.88,
+      "clics": 1842,
+      "ctr": 41.53,
+      "impressions": 4435,
+      "reach": 1964
+    },
+    {
+      "plateforme": "facebook",
+      "position": "facebook_reels",
+      "spend": 14.07,
+      "clics": 20,
+      "ctr": 2.54,
+      "impressions": 788,
+      "reach": 690
+    },
+    {
+      "plateforme": "audience_network",
+      "position": "an_classic",
+      "spend": 7.16,
+      "clics": 449,
+      "ctr": 25.28,
+      "impressions": 1776,
+      "reach": 890
+    },
+    {
+      "plateforme": "facebook",
+      "position": "feed",
+      "spend": 5.62,
+      "clics": 11,
+      "ctr": 2.94,
+      "impressions": 374,
+      "reach": 331
+    },
+    {
+      "plateforme": "instagram",
+      "position": "instagram_reels",
+      "spend": 1.54,
+      "clics": 2,
+      "ctr": 1.48,
+      "impressions": 135,
+      "reach": 128
+    },
+    {
+      "plateforme": "instagram",
+      "position": "feed",
+      "spend": 1.1,
+      "clics": 2,
+      "ctr": 3.17,
+      "impressions": 63,
+      "reach": 61
+    },
+    {
+      "plateforme": "facebook",
+      "position": "instream_video",
+      "spend": 0.61,
+      "clics": 2,
+      "ctr": 6.45,
+      "impressions": 31,
+      "reach": 29
+    },
+    {
+      "plateforme": "facebook",
+      "position": "right_hand_column",
+      "spend": 0.4,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 184,
+      "reach": 115
+    },
+    {
+      "plateforme": "instagram",
+      "position": "instagram_stories",
+      "spend": 0.13,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 8,
+      "reach": 8
+    },
+    {
+      "plateforme": "facebook",
+      "position": "facebook_stories",
+      "spend": 0.09,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "reach": 3
+    },
+    {
+      "plateforme": "facebook",
+      "position": "search",
+      "spend": 0.01,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 8,
+      "reach": 8
+    },
+    {
+      "plateforme": "instagram",
+      "position": "instagram_search",
+      "spend": 0.01,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "reach": 1
+    },
+    {
+      "plateforme": "facebook",
+      "position": "marketplace",
+      "spend": 0.0,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 4,
+      "reach": 4
+    },
+    {
+      "plateforme": "instagram",
+      "position": "instagram_explore_grid_home",
+      "spend": 0.0,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "reach": 1
+    },
+    {
+      "plateforme": "unknown",
+      "position": "unknown",
+      "spend": 0.0,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 0,
+      "reach": 0
+    }
+  ],
+  "campagne": "Testing 1 SOMA",
+  "budgetJour": 50.0,
+  "heuresDepuisLancement": 66.3,
+  "phaseCampagne": "testing",
+  "checkpointNom": "CHECKPOINT 48H",
+  "verdictCls": "kill",
+  "verdictLabel": "KILL",
+  "verdictTx": "Scenario 3 : ROAS 0.00x < 1 -> on arrete.",
+  "seuils": {
+    "roasBe": 1.54,
+    "roasTarget": 2.15,
+    "roasTargetMin": 1.95,
+    "roasFloor": 1.23,
+    "coutAtcMax": 27.8
+  },
+  "fenetres": {
+    "depuisLancement": {
+      "spend": 55.62,
+      "roas": 0.0,
+      "ventes": 0,
+      "coutATC": 0,
+      "ctr": 29.8,
+      "cpc": 0.02,
+      "cpm": 7.12,
+      "impressions": 7811,
+      "reach": 4155,
+      "frequency": 1.88
+    },
+    "j3": {
+      "spend": 41.09,
+      "roas": 0.0,
+      "ventes": 0,
+      "coutATC": 0,
+      "ctr": 33.15,
+      "cpc": 0.02,
+      "cpm": 5.91,
+      "impressions": 6956,
+      "reach": 3368,
+      "frequency": 2.07
+    },
+    "hier": {
+      "spend": 37.87,
+      "roas": 0.0,
+      "ventes": 0,
+      "coutATC": 0,
+      "ctr": 33.94,
+      "cpc": 0.02,
+      "cpm": 5.87,
+      "impressions": 6447,
+      "reach": 2984,
+      "frequency": 2.16
+    }
+  }
+}
