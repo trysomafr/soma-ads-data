@@ -1,9 +1,9 @@
 {
-  "updated": "31/07/2026 23:31h",
+  "updated": "31/07/2026 23:45h",
   "placements": [],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 4.3,
+  "heuresDepuisLancement": 4.6,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -26,7 +26,7 @@
       "ctr": 29.57,
       "cpc": 0.02,
       "cpm": 7.18,
-      "impressions": 7879,
+      "impressions": 7880,
       "reach": 4246,
       "frequency": 1.86
     },
