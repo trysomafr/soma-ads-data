@@ -1,9 +1,9 @@
 {
-  "updated": "31/07/2026 23:15h",
+  "updated": "31/07/2026 23:31h",
   "placements": [],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 4.1,
+  "heuresDepuisLancement": 4.3,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -19,14 +19,14 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 56.56,
+      "spend": 56.57,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 29.58,
+      "ctr": 29.57,
       "cpc": 0.02,
       "cpm": 7.18,
-      "impressions": 7878,
+      "impressions": 7879,
       "reach": 4246,
       "frequency": 1.86
     },
