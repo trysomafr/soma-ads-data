@@ -1,9 +1,9 @@
 {
-  "updated": "01/08/2026 00:01h",
+  "updated": "01/08/2026 00:15h",
   "placements": [],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 4.9,
+  "heuresDepuisLancement": 5.1,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
