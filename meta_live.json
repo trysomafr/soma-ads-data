@@ -1,59 +1,59 @@
 {
-  "updated": "31/07/2026 18:20h",
+  "updated": "31/07/2026 19:00h",
   "placements": [
     {
       "plateforme": "audience_network",
       "position": "rewarded_video",
-      "spend": 24.88,
+      "spend": 24.85,
       "clics": 1842,
-      "ctr": 41.53,
-      "impressions": 4435,
+      "ctr": 41.56,
+      "impressions": 4432,
       "reach": 1964
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 14.07,
+      "spend": 14.54,
       "clics": 20,
-      "ctr": 2.54,
-      "impressions": 788,
-      "reach": 690
+      "ctr": 2.47,
+      "impressions": 811,
+      "reach": 709
     },
     {
       "plateforme": "audience_network",
       "position": "an_classic",
-      "spend": 7.16,
+      "spend": 7.15,
       "clics": 449,
-      "ctr": 25.28,
-      "impressions": 1776,
+      "ctr": 25.3,
+      "impressions": 1775,
       "reach": 890
     },
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 5.62,
+      "spend": 5.68,
       "clics": 11,
-      "ctr": 2.94,
-      "impressions": 374,
-      "reach": 331
+      "ctr": 2.89,
+      "impressions": 381,
+      "reach": 336
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 1.54,
+      "spend": 1.65,
       "clics": 2,
-      "ctr": 1.48,
-      "impressions": 135,
-      "reach": 128
+      "ctr": 1.37,
+      "impressions": 146,
+      "reach": 138
     },
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 1.1,
+      "spend": 1.14,
       "clics": 2,
-      "ctr": 3.17,
-      "impressions": 63,
-      "reach": 61
+      "ctr": 2.86,
+      "impressions": 70,
+      "reach": 68
     },
     {
       "plateforme": "facebook",
@@ -70,8 +70,17 @@
       "spend": 0.4,
       "clics": 0,
       "ctr": 0.0,
-      "impressions": 184,
-      "reach": 115
+      "impressions": 188,
+      "reach": 119
+    },
+    {
+      "plateforme": "facebook",
+      "position": "facebook_stories",
+      "spend": 0.15,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 4,
+      "reach": 4
     },
     {
       "plateforme": "instagram",
@@ -84,21 +93,12 @@
     },
     {
       "plateforme": "facebook",
-      "position": "facebook_stories",
-      "spend": 0.09,
-      "clics": 0,
-      "ctr": 0.0,
-      "impressions": 3,
-      "reach": 3
-    },
-    {
-      "plateforme": "facebook",
       "position": "search",
       "spend": 0.01,
       "clics": 0,
       "ctr": 0.0,
-      "impressions": 8,
-      "reach": 8
+      "impressions": 9,
+      "reach": 9
     },
     {
       "plateforme": "instagram",
@@ -139,7 +139,7 @@
   ],
   "campagne": "Testing 1 SOMA",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 66.3,
+  "heuresDepuisLancement": 67.0,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 48H",
   "verdictCls": "kill",
@@ -154,16 +154,16 @@
   },
   "fenetres": {
     "depuisLancement": {
-      "spend": 55.62,
+      "spend": 56.33,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 29.8,
+      "ctr": 29.61,
       "cpc": 0.02,
-      "cpm": 7.12,
-      "impressions": 7811,
-      "reach": 4155,
-      "frequency": 1.88
+      "cpm": 7.17,
+      "impressions": 7861,
+      "reach": 4216,
+      "frequency": 1.86
     },
     "j3": {
       "spend": 41.09,
