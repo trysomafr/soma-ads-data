@@ -1,20 +1,20 @@
 {
-  "updated": "01/08/2026 16:45h",
+  "updated": "01/08/2026 17:01h",
   "fenetres": {
     "depuisLancement": {
-      "sessions": 70,
-      "sessionsAN": 2,
-      "sessionsHorsAN": 68
+      "sessions": 67,
+      "sessionsAN": 4,
+      "sessionsHorsAN": 63
     },
     "j3": {
-      "sessions": 86,
-      "sessionsAN": 2,
-      "sessionsHorsAN": 84
+      "sessions": 83,
+      "sessionsAN": 4,
+      "sessionsHorsAN": 79
     },
     "hier": {
-      "sessions": 15,
-      "sessionsAN": 1,
-      "sessionsHorsAN": 14
+      "sessions": 11,
+      "sessionsAN": 3,
+      "sessionsHorsAN": 8
     }
   },
   "channelBreakdown": [
@@ -24,25 +24,25 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 30
-    },
-    {
-      "channel": "Direct",
-      "sessions": 2
+      "sessions": 28
     },
     {
       "channel": "Organic Social",
       "sessions": 2
+    },
+    {
+      "channel": "Direct",
+      "sessions": 1
     }
   ],
   "parCrea": [
     {
-      "crea": "(sans tag)",
-      "sessions": 29
-    },
-    {
       "crea": "Vidéo B",
       "sessions": 27
+    },
+    {
+      "crea": "(sans tag)",
+      "sessions": 24
     },
     {
       "crea": "STATIQUE 1",
@@ -54,7 +54,7 @@
     },
     {
       "crea": "Test",
-      "sessions": 2
+      "sessions": 4
     },
     {
       "crea": "Nouvelle publicité de Ventes",
