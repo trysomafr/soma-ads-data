@@ -1,41 +1,41 @@
 {
-  "updated": "01/08/2026 03:30h",
+  "updated": "01/08/2026 03:45h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 0.78,
-      "clics": 3,
-      "ctr": 2.7,
-      "impressions": 111,
-      "reach": 100
+      "spend": 0.91,
+      "clics": 6,
+      "ctr": 4.72,
+      "impressions": 127,
+      "reach": 117
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
       "spend": 0.65,
       "clics": 2,
-      "ctr": 2.7,
-      "impressions": 74,
-      "reach": 60
+      "ctr": 2.78,
+      "impressions": 72,
+      "reach": 61
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 0.42,
+      "spend": 0.45,
       "clics": 5,
-      "ctr": 5.56,
-      "impressions": 90,
-      "reach": 75
+      "ctr": 5.21,
+      "impressions": 96,
+      "reach": 82
     },
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 0.06,
+      "spend": 0.07,
       "clics": 0,
       "ctr": 0.0,
       "impressions": 8,
-      "reach": 7
+      "reach": 8
     },
     {
       "plateforme": "instagram",
@@ -52,7 +52,7 @@
       "spend": 0.03,
       "clics": 0,
       "ctr": 0.0,
-      "impressions": 10,
+      "impressions": 9,
       "reach": 3
     },
     {
@@ -60,8 +60,8 @@
       "position": "marketplace",
       "spend": 0.01,
       "clics": 1,
-      "ctr": 11.11,
-      "impressions": 9,
+      "ctr": 12.5,
+      "impressions": 8,
       "reach": 4
     },
     {
@@ -76,7 +76,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 8.3,
+  "heuresDepuisLancement": 8.6,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -92,28 +92,28 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 58.59,
+      "spend": 58.77,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 28.6,
+      "ctr": 28.57,
       "cpc": 0.03,
       "cpm": 7.16,
-      "impressions": 8186,
-      "reach": 4541,
+      "impressions": 8204,
+      "reach": 4559,
       "frequency": 1.8
     },
     "depuisLancement": {
-      "spend": 1.99,
+      "spend": 2.17,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 3.62,
-      "cpc": 0.18,
-      "cpm": 6.55,
-      "impressions": 304,
-      "reach": 243,
-      "frequency": 1.25
+      "ctr": 4.35,
+      "cpc": 0.15,
+      "cpm": 6.74,
+      "impressions": 322,
+      "reach": 270,
+      "frequency": 1.19
     },
     "j3": {
       "spend": 0.0,
