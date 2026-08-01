@@ -1,15 +1,15 @@
 {
-  "updated": "01/08/2026 14:15h",
+  "updated": "01/08/2026 14:31h",
   "fenetres": {
     "depuisLancement": {
-      "sessions": 60,
+      "sessions": 61,
       "sessionsAN": 2,
-      "sessionsHorsAN": 58
+      "sessionsHorsAN": 59
     },
     "j3": {
-      "sessions": 76,
+      "sessions": 77,
       "sessionsAN": 2,
-      "sessionsHorsAN": 74
+      "sessionsHorsAN": 75
     },
     "hier": {
       "sessions": 15,
@@ -24,7 +24,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 26
+      "sessions": 27
     },
     {
       "channel": "Direct",
@@ -38,7 +38,7 @@
   "parCrea": [
     {
       "crea": "(sans tag)",
-      "sessions": 25
+      "sessions": 26
     },
     {
       "crea": "Vidéo B",
