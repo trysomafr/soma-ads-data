@@ -1,15 +1,15 @@
 {
-  "updated": "01/08/2026 04:15h",
+  "updated": "01/08/2026 04:31h",
   "fenetres": {
     "depuisLancement": {
-      "sessions": 21,
+      "sessions": 22,
       "sessionsAN": 1,
-      "sessionsHorsAN": 20
+      "sessionsHorsAN": 21
     },
     "j3": {
-      "sessions": 37,
+      "sessions": 38,
       "sessionsAN": 1,
-      "sessionsHorsAN": 36
+      "sessionsHorsAN": 37
     },
     "hier": {
       "sessions": 15,
@@ -24,17 +24,21 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 9
+      "sessions": 10
     },
     {
       "channel": "Direct",
+      "sessions": 1
+    },
+    {
+      "channel": "Organic Social",
       "sessions": 1
     }
   ],
   "parCrea": [
     {
       "crea": "(sans tag)",
-      "sessions": 9
+      "sessions": 10
     },
     {
       "crea": "Vidéo C",
