@@ -1,28 +1,28 @@
 {
-  "updated": "01/08/2026 14:13h",
+  "updated": "01/08/2026 14:15h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 29.33,
+      "spend": 29.45,
       "clics": 140,
-      "ctr": 2.7,
-      "impressions": 5192,
+      "ctr": 2.69,
+      "impressions": 5215,
       "reach": 4274
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 10.72,
+      "spend": 10.77,
       "clics": 166,
-      "ctr": 7.08,
-      "impressions": 2345,
+      "ctr": 7.05,
+      "impressions": 2355,
       "reach": 1936
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 2.6,
+      "spend": 2.61,
       "clics": 6,
       "ctr": 3.21,
       "impressions": 187,
@@ -31,7 +31,7 @@
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 0.45,
+      "spend": 0.46,
       "clics": 1,
       "ctr": 1.14,
       "impressions": 88,
@@ -40,7 +40,7 @@
     {
       "plateforme": "instagram",
       "position": "instagram_stories",
-      "spend": 0.42,
+      "spend": 0.43,
       "clics": 1,
       "ctr": 50.0,
       "impressions": 2,
@@ -84,21 +84,21 @@
     },
     {
       "plateforme": "facebook",
+      "position": "facebook_reels_overlay",
+      "spend": 0.03,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 25,
+      "reach": 25
+    },
+    {
+      "plateforme": "facebook",
       "position": "right_hand_column",
       "spend": 0.03,
       "clics": 0,
       "ctr": 0.0,
       "impressions": 18,
       "reach": 9
-    },
-    {
-      "plateforme": "facebook",
-      "position": "facebook_reels_overlay",
-      "spend": 0.02,
-      "clics": 0,
-      "ctr": 0.0,
-      "impressions": 23,
-      "reach": 23
     },
     {
       "plateforme": "facebook",
@@ -158,14 +158,14 @@
       "frequency": 1.47
     },
     "depuisLancement": {
-      "spend": 43.96,
+      "spend": 44.15,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 4.02,
+      "ctr": 4.06,
       "cpc": 0.14,
       "cpm": 5.55,
-      "impressions": 7914,
+      "impressions": 7949,
       "reach": 6399,
       "frequency": 1.24
     },
