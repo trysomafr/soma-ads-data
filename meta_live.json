@@ -1,9 +1,55 @@
 {
-  "updated": "01/08/2026 01:45h",
-  "placements": [],
+  "updated": "01/08/2026 02:01h",
+  "placements": [
+    {
+      "plateforme": "instagram",
+      "position": "instagram_reels",
+      "spend": 0.2,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 13,
+      "reach": 7
+    },
+    {
+      "plateforme": "facebook",
+      "position": "feed",
+      "spend": 0.14,
+      "clics": 1,
+      "ctr": 5.88,
+      "impressions": 17,
+      "reach": 9
+    },
+    {
+      "plateforme": "facebook",
+      "position": "facebook_reels",
+      "spend": 0.03,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 10,
+      "reach": 5
+    },
+    {
+      "plateforme": "instagram",
+      "position": "feed",
+      "spend": 0.03,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "reach": 1
+    },
+    {
+      "plateforme": "facebook",
+      "position": "marketplace",
+      "spend": 0.0,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "reach": 1
+    }
+  ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 6.6,
+  "heuresDepuisLancement": 6.9,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -19,28 +65,28 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 56.6,
+      "spend": 57.01,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 29.56,
+      "ctr": 29.41,
       "cpc": 0.02,
-      "cpm": 7.18,
-      "impressions": 7882,
-      "reach": 4246,
+      "cpm": 7.19,
+      "impressions": 7926,
+      "reach": 4264,
       "frequency": 1.86
     },
     "depuisLancement": {
-      "spend": 0.0,
-      "roas": 0,
+      "spend": 0.41,
+      "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 0.0,
-      "cpc": 0.0,
-      "cpm": 0,
-      "impressions": 0,
-      "reach": 0,
-      "frequency": 0.0
+      "ctr": 2.27,
+      "cpc": 0.41,
+      "cpm": 9.32,
+      "impressions": 44,
+      "reach": 22,
+      "frequency": 2.0
     },
     "j3": {
       "spend": 0.0,
