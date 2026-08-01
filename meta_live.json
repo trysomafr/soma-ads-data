@@ -1,46 +1,46 @@
 {
-  "updated": "01/08/2026 16:15h",
+  "updated": "01/08/2026 16:30h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 33.92,
-      "clics": 161,
-      "ctr": 2.69,
-      "impressions": 5986,
-      "reach": 4792
+      "spend": 34.71,
+      "clics": 164,
+      "ctr": 2.7,
+      "impressions": 6072,
+      "reach": 4826
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 13.02,
-      "clics": 241,
-      "ctr": 8.22,
-      "impressions": 2930,
-      "reach": 2383
+      "spend": 13.32,
+      "clics": 247,
+      "ctr": 8.23,
+      "impressions": 3000,
+      "reach": 2419
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 2.66,
+      "spend": 2.69,
       "clics": 6,
-      "ctr": 3.14,
-      "impressions": 191,
-      "reach": 166
+      "ctr": 3.12,
+      "impressions": 192,
+      "reach": 167
     },
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 0.46,
+      "spend": 0.47,
       "clics": 1,
-      "ctr": 1.09,
-      "impressions": 92,
-      "reach": 82
+      "ctr": 1.06,
+      "impressions": 94,
+      "reach": 83
     },
     {
       "plateforme": "instagram",
       "position": "instagram_stories",
-      "spend": 0.42,
+      "spend": 0.43,
       "clics": 1,
       "ctr": 50.0,
       "impressions": 2,
@@ -60,18 +60,18 @@
       "position": "marketplace",
       "spend": 0.12,
       "clics": 2,
-      "ctr": 5.71,
-      "impressions": 35,
+      "ctr": 5.56,
+      "impressions": 36,
       "reach": 20
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels_overlay",
-      "spend": 0.1,
+      "spend": 0.11,
       "clics": 2,
-      "ctr": 3.23,
-      "impressions": 62,
-      "reach": 60
+      "ctr": 3.12,
+      "impressions": 64,
+      "reach": 62
     },
     {
       "plateforme": "facebook",
@@ -130,7 +130,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 21.1,
+  "heuresDepuisLancement": 21.3,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -146,28 +146,28 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 107.61,
+      "spend": 108.29,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 15.98,
+      "ctr": 15.86,
       "cpc": 0.04,
-      "cpm": 6.25,
-      "impressions": 17227,
-      "reach": 11661,
+      "cpm": 6.24,
+      "impressions": 17367,
+      "reach": 11770,
       "frequency": 1.48
     },
     "depuisLancement": {
-      "spend": 51.01,
+      "spend": 51.82,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 4.45,
+      "ctr": 4.47,
       "cpc": 0.12,
-      "cpm": 5.46,
-      "impressions": 9344,
-      "reach": 7400,
-      "frequency": 1.26
+      "cpm": 5.45,
+      "impressions": 9506,
+      "reach": 7452,
+      "frequency": 1.28
     },
     "j3": {
       "spend": 0.0,
