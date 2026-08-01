@@ -1,23 +1,23 @@
 {
-  "updated": "01/08/2026 23:01h",
+  "updated": "01/08/2026 23:15h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 39.41,
+      "spend": 39.4,
       "clics": 188,
       "ctr": 2.74,
-      "impressions": 6859,
-      "reach": 5271
+      "impressions": 6857,
+      "reach": 5281
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 15.68,
-      "clics": 339,
-      "ctr": 8.96,
-      "impressions": 3784,
-      "reach": 2961
+      "spend": 15.72,
+      "clics": 340,
+      "ctr": 8.95,
+      "impressions": 3799,
+      "reach": 2978
     },
     {
       "plateforme": "instagram",
@@ -33,9 +33,9 @@
       "position": "feed",
       "spend": 0.51,
       "clics": 1,
-      "ctr": 1.0,
-      "impressions": 100,
-      "reach": 89
+      "ctr": 0.99,
+      "impressions": 101,
+      "reach": 90
     },
     {
       "plateforme": "instagram",
@@ -51,9 +51,9 @@
       "position": "facebook_reels_overlay",
       "spend": 0.18,
       "clics": 3,
-      "ctr": 2.27,
-      "impressions": 132,
-      "reach": 129
+      "ctr": 2.22,
+      "impressions": 135,
+      "reach": 132
     },
     {
       "plateforme": "facebook",
@@ -130,7 +130,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 27.8,
+  "heuresDepuisLancement": 28.1,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 24H",
   "verdictCls": "test",
@@ -146,27 +146,27 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 115.95,
+      "spend": 115.97,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
       "ctr": 15.07,
       "cpc": 0.04,
       "cpm": 6.08,
-      "impressions": 19057,
-      "reach": 12903,
-      "frequency": 1.48
+      "impressions": 19074,
+      "reach": 12951,
+      "frequency": 1.47
     },
     "depuisLancement": {
-      "spend": 59.35,
+      "spend": 59.37,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
       "ctr": 4.85,
       "cpc": 0.11,
       "cpm": 5.31,
-      "impressions": 11174,
-      "reach": 8522,
+      "impressions": 11191,
+      "reach": 8563,
       "frequency": 1.31
     },
     "j3": {
