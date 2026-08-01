@@ -1,28 +1,28 @@
 {
-  "updated": "01/08/2026 14:31h",
+  "updated": "01/08/2026 14:45h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 30.46,
-      "clics": 142,
-      "ctr": 2.65,
-      "impressions": 5364,
-      "reach": 4354
+      "spend": 31.21,
+      "clics": 144,
+      "ctr": 2.63,
+      "impressions": 5473,
+      "reach": 4431
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 11.18,
-      "clics": 173,
-      "ctr": 7.1,
-      "impressions": 2436,
-      "reach": 1986
+      "spend": 11.46,
+      "clics": 186,
+      "ctr": 7.37,
+      "impressions": 2524,
+      "reach": 2055
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 2.63,
+      "spend": 2.62,
       "clics": 6,
       "ctr": 3.17,
       "impressions": 189,
@@ -33,9 +33,9 @@
       "position": "feed",
       "spend": 0.46,
       "clics": 1,
-      "ctr": 1.11,
-      "impressions": 90,
-      "reach": 80
+      "ctr": 1.07,
+      "impressions": 93,
+      "reach": 82
     },
     {
       "plateforme": "instagram",
@@ -66,21 +66,21 @@
     },
     {
       "plateforme": "facebook",
+      "position": "facebook_reels_overlay",
+      "spend": 0.06,
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 36,
+      "reach": 35
+    },
+    {
+      "plateforme": "facebook",
       "position": "facebook_stories",
       "spend": 0.05,
       "clics": 1,
       "ctr": 50.0,
       "impressions": 2,
       "reach": 2
-    },
-    {
-      "plateforme": "facebook",
-      "position": "facebook_reels_overlay",
-      "spend": 0.04,
-      "clics": 0,
-      "ctr": 0.0,
-      "impressions": 29,
-      "reach": 29
     },
     {
       "plateforme": "facebook",
@@ -130,7 +130,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 19.3,
+  "heuresDepuisLancement": 19.6,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -146,27 +146,27 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 102.2,
+      "spend": 103.25,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 16.53,
+      "ctr": 16.41,
       "cpc": 0.04,
-      "cpm": 6.36,
-      "impressions": 16072,
-      "reach": 10925,
+      "cpm": 6.34,
+      "impressions": 16279,
+      "reach": 11077,
       "frequency": 1.47
     },
     "depuisLancement": {
-      "spend": 45.6,
+      "spend": 46.65,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 3.99,
+      "ctr": 4.07,
       "cpc": 0.14,
-      "cpm": 5.57,
-      "impressions": 8189,
-      "reach": 6573,
+      "cpm": 5.56,
+      "impressions": 8396,
+      "reach": 6728,
       "frequency": 1.25
     },
     "j3": {
