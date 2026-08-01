@@ -1,41 +1,41 @@
 {
-  "updated": "01/08/2026 04:45h",
+  "updated": "01/08/2026 05:01h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 1.12,
-      "clics": 10,
-      "ctr": 5.92,
-      "impressions": 169,
-      "reach": 161
+      "spend": 1.31,
+      "clics": 11,
+      "ctr": 5.73,
+      "impressions": 192,
+      "reach": 172
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
       "spend": 0.65,
       "clics": 2,
-      "ctr": 2.7,
-      "impressions": 74,
+      "ctr": 2.63,
+      "impressions": 76,
       "reach": 62
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 0.56,
-      "clics": 6,
-      "ctr": 5.36,
-      "impressions": 112,
-      "reach": 98
+      "spend": 0.64,
+      "clics": 7,
+      "ctr": 5.74,
+      "impressions": 122,
+      "reach": 103
     },
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 0.11,
-      "clics": 0,
-      "ctr": 0.0,
-      "impressions": 11,
-      "reach": 11
+      "spend": 0.16,
+      "clics": 1,
+      "ctr": 7.69,
+      "impressions": 13,
+      "reach": 12
     },
     {
       "plateforme": "instagram",
@@ -76,7 +76,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 9.6,
+  "heuresDepuisLancement": 9.8,
   "phaseCampagne": "testing",
   "checkpointNom": "SETUP",
   "verdictCls": "test",
@@ -92,28 +92,28 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 59.14,
+      "spend": 59.46,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 28.44,
+      "ctr": 28.32,
       "cpc": 0.03,
-      "cpm": 7.15,
-      "impressions": 8267,
-      "reach": 4606,
+      "cpm": 7.16,
+      "impressions": 8304,
+      "reach": 4628,
       "frequency": 1.79
     },
     "depuisLancement": {
-      "spend": 2.54,
+      "spend": 2.86,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 4.93,
+      "ctr": 5.21,
       "cpc": 0.13,
-      "cpm": 6.6,
-      "impressions": 385,
-      "reach": 327,
-      "frequency": 1.18
+      "cpm": 6.78,
+      "impressions": 422,
+      "reach": 356,
+      "frequency": 1.19
     },
     "j3": {
       "spend": 0.0,
