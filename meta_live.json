@@ -1,77 +1,77 @@
 {
-  "updated": "02/08/2026 01:45h",
+  "updated": "02/08/2026 02:01h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 39.54,
-      "clics": 188,
-      "ctr": 2.73,
-      "impressions": 6874,
-      "reach": 5289
+      "spend": 41.44,
+      "clics": 198,
+      "ctr": 2.72,
+      "impressions": 7277,
+      "reach": 5564
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 15.86,
-      "clics": 349,
-      "ctr": 9.06,
-      "impressions": 3853,
-      "reach": 3012
+      "spend": 18.26,
+      "clics": 424,
+      "ctr": 9.35,
+      "impressions": 4537,
+      "reach": 3544
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 2.71,
-      "clics": 6,
-      "ctr": 2.8,
-      "impressions": 214,
-      "reach": 186
+      "spend": 3.08,
+      "clics": 7,
+      "ctr": 2.65,
+      "impressions": 264,
+      "reach": 231
     },
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 0.54,
-      "clics": 1,
-      "ctr": 0.94,
-      "impressions": 106,
-      "reach": 93
+      "spend": 0.97,
+      "clics": 2,
+      "ctr": 1.55,
+      "impressions": 129,
+      "reach": 114
     },
     {
       "plateforme": "instagram",
       "position": "instagram_stories",
-      "spend": 0.42,
+      "spend": 0.43,
       "clics": 1,
-      "ctr": 50.0,
-      "impressions": 2,
-      "reach": 2
+      "ctr": 25.0,
+      "impressions": 4,
+      "reach": 4
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels_overlay",
-      "spend": 0.2,
+      "spend": 0.37,
       "clics": 3,
-      "ctr": 1.9,
-      "impressions": 158,
-      "reach": 155
+      "ctr": 0.89,
+      "impressions": 337,
+      "reach": 326
     },
     {
       "plateforme": "facebook",
       "position": "instream_video",
-      "spend": 0.16,
-      "clics": 0,
-      "ctr": 0.0,
-      "impressions": 17,
-      "reach": 12
+      "spend": 0.2,
+      "clics": 1,
+      "ctr": 4.76,
+      "impressions": 21,
+      "reach": 16
     },
     {
       "plateforme": "facebook",
       "position": "marketplace",
-      "spend": 0.12,
-      "clics": 2,
-      "ctr": 5.26,
-      "impressions": 38,
-      "reach": 23
+      "spend": 0.14,
+      "clics": 3,
+      "ctr": 6.12,
+      "impressions": 49,
+      "reach": 30
     },
     {
       "plateforme": "facebook",
@@ -84,21 +84,21 @@
     },
     {
       "plateforme": "facebook",
-      "position": "search",
+      "position": "facebook_profile_feed",
       "spend": 0.04,
-      "clics": 1,
-      "ctr": 33.33,
-      "impressions": 3,
-      "reach": 3
+      "clics": 0,
+      "ctr": 0.0,
+      "impressions": 12,
+      "reach": 10
     },
     {
       "plateforme": "facebook",
-      "position": "facebook_profile_feed",
-      "spend": 0.03,
-      "clics": 0,
-      "ctr": 0.0,
-      "impressions": 8,
-      "reach": 6
+      "position": "search",
+      "spend": 0.04,
+      "clics": 1,
+      "ctr": 25.0,
+      "impressions": 4,
+      "reach": 4
     },
     {
       "plateforme": "facebook",
@@ -106,8 +106,8 @@
       "spend": 0.03,
       "clics": 0,
       "ctr": 0.0,
-      "impressions": 18,
-      "reach": 9
+      "impressions": 31,
+      "reach": 14
     },
     {
       "plateforme": "instagram",
@@ -115,8 +115,8 @@
       "spend": 0.0,
       "clics": 0,
       "ctr": 0.0,
-      "impressions": 1,
-      "reach": 1
+      "impressions": 2,
+      "reach": 2
     },
     {
       "plateforme": "instagram",
@@ -130,12 +130,12 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 30.6,
+  "heuresDepuisLancement": 30.9,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 24H",
   "verdictCls": "test",
   "verdictLabel": "EN TEST",
-  "verdictTx": "Scenario 2 : pas de vente mais CPC bas (0.11 EUR) -> bon signal de trafic, on continue.",
+  "verdictTx": "Scenario 2 : pas de vente mais CPC bas (0.10 EUR) -> bon signal de trafic, on continue.",
   "seuils": {
     "roasBe": 1.54,
     "roasTarget": 2.15,
@@ -146,28 +146,28 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 116.3,
+      "spend": 121.76,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 15.03,
+      "ctr": 14.44,
       "cpc": 0.04,
-      "cpm": 6.06,
-      "impressions": 19179,
-      "reach": 13012,
+      "cpm": 5.92,
+      "impressions": 20582,
+      "reach": 13964,
       "frequency": 1.47
     },
     "depuisLancement": {
-      "spend": 59.7,
+      "spend": 65.06,
       "roas": 0.0,
       "ventes": 0,
       "coutATC": 0,
-      "ctr": 4.89,
-      "cpc": 0.11,
-      "cpm": 5.29,
-      "impressions": 11296,
-      "reach": 8615,
-      "frequency": 1.31
+      "ctr": 5.06,
+      "cpc": 0.1,
+      "cpm": 5.13,
+      "impressions": 12671,
+      "reach": 9570,
+      "frequency": 1.32
     },
     "j3": {
       "spend": 59.7,
