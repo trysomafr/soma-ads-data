@@ -1,19 +1,19 @@
 {
-  "updated": "02/08/2026 23:45h",
+  "updated": "03/08/2026 00:01h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 55.36,
+      "spend": 55.55,
       "clics": 241,
       "ctr": 2.77,
-      "impressions": 8702,
+      "impressions": 8703,
       "reach": 6666
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 27.92,
+      "spend": 28.01,
       "clics": 616,
       "ctr": 9.47,
       "impressions": 6504,
@@ -22,7 +22,7 @@
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 7.53,
+      "spend": 7.56,
       "clics": 18,
       "ctr": 3.43,
       "impressions": 525,
@@ -31,7 +31,7 @@
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 4.16,
+      "spend": 4.17,
       "clics": 4,
       "ctr": 1.81,
       "impressions": 221,
@@ -139,7 +139,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 52.6,
+  "heuresDepuisLancement": 52.8,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 48H",
   "verdictCls": "kill",
@@ -155,52 +155,52 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 155.09,
+      "spend": 155.42,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 38.77,
+      "coutATC": 38.85,
       "ctr": 12.68,
       "cpc": 0.05,
-      "cpm": 6.09,
-      "impressions": 25470,
+      "cpm": 6.1,
+      "impressions": 25471,
       "reach": 17505,
       "frequency": 1.46
     },
     "depuisLancement": {
-      "spend": 98.49,
+      "spend": 98.82,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 24.62,
+      "coutATC": 24.7,
       "ctr": 5.11,
       "cpc": 0.11,
-      "cpm": 5.6,
-      "impressions": 17587,
+      "cpm": 5.62,
+      "impressions": 17588,
       "reach": 13014,
       "frequency": 1.35
     },
     "j3": {
-      "spend": 59.81,
+      "spend": 98.82,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 0,
-      "ctr": 4.89,
+      "coutATC": 24.7,
+      "ctr": 5.11,
       "cpc": 0.11,
-      "cpm": 5.28,
-      "impressions": 11318,
-      "reach": 8623,
-      "frequency": 1.31
+      "cpm": 5.62,
+      "impressions": 17588,
+      "reach": 13014,
+      "frequency": 1.35
     },
     "hier": {
-      "spend": 59.81,
+      "spend": 39.01,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 0,
-      "ctr": 4.89,
+      "coutATC": 9.75,
+      "ctr": 5.52,
       "cpc": 0.11,
-      "cpm": 5.28,
-      "impressions": 11318,
-      "reach": 8623,
-      "frequency": 1.31
+      "cpm": 6.22,
+      "impressions": 6270,
+      "reach": 5508,
+      "frequency": 1.14
     }
   }
 }
