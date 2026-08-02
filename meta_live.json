@@ -1,23 +1,23 @@
 {
-  "updated": "02/08/2026 17:15h",
+  "updated": "02/08/2026 17:30h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 54.52,
+      "spend": 54.66,
       "clics": 239,
-      "ctr": 2.77,
-      "impressions": 8644,
+      "ctr": 2.76,
+      "impressions": 8652,
       "reach": 6613
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 27.88,
-      "clics": 615,
-      "ctr": 9.47,
-      "impressions": 6492,
-      "reach": 4863
+      "spend": 27.9,
+      "clics": 616,
+      "ctr": 9.49,
+      "impressions": 6494,
+      "reach": 4868
     },
     {
       "plateforme": "instagram",
@@ -43,7 +43,7 @@
       "spend": 1.31,
       "clics": 10,
       "ctr": 0.76,
-      "impressions": 1315,
+      "impressions": 1316,
       "reach": 1249
     },
     {
@@ -139,7 +139,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 46.1,
+  "heuresDepuisLancement": 46.3,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 24H",
   "verdictCls": "test",
@@ -155,26 +155,26 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 154.2,
+      "spend": 154.34,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 38.55,
+      "coutATC": 38.59,
       "ctr": 12.7,
       "cpc": 0.05,
       "cpm": 6.07,
-      "impressions": 25399,
+      "impressions": 25410,
       "reach": 17486,
       "frequency": 1.45
     },
     "depuisLancement": {
-      "spend": 97.6,
+      "spend": 97.74,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 24.4,
+      "coutATC": 24.43,
       "ctr": 5.12,
       "cpc": 0.11,
-      "cpm": 5.57,
-      "impressions": 17516,
+      "cpm": 5.58,
+      "impressions": 17527,
       "reach": 12980,
       "frequency": 1.35
     },
