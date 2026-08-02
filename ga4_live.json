@@ -1,15 +1,15 @@
 {
-  "updated": "02/08/2026 09:31h",
+  "updated": "02/08/2026 09:45h",
   "fenetres": {
     "depuisLancement": {
-      "sessions": 114,
+      "sessions": 115,
       "sessionsAN": 4,
-      "sessionsHorsAN": 110
+      "sessionsHorsAN": 111
     },
     "j3": {
-      "sessions": 130,
+      "sessions": 131,
       "sessionsAN": 4,
-      "sessionsHorsAN": 126
+      "sessionsHorsAN": 127
     },
     "hier": {
       "sessions": 81,
@@ -24,7 +24,7 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 46
+      "sessions": 47
     },
     {
       "channel": "Organic Social",
@@ -42,7 +42,7 @@
     },
     {
       "crea": "(sans tag)",
-      "sessions": 42
+      "sessions": 43
     },
     {
       "crea": "STATIQUE 1",
