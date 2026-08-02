@@ -1,55 +1,55 @@
 {
-  "updated": "02/08/2026 13:01h",
+  "updated": "02/08/2026 13:15h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 50.43,
-      "clics": 233,
-      "ctr": 2.78,
-      "impressions": 8372,
-      "reach": 6314
+      "spend": 50.38,
+      "clics": 235,
+      "ctr": 2.8,
+      "impressions": 8404,
+      "reach": 6373
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 25.61,
-      "clics": 573,
+      "spend": 25.66,
+      "clics": 576,
       "ctr": 9.52,
-      "impressions": 6019,
-      "reach": 4541
+      "impressions": 6048,
+      "reach": 4562
     },
     {
       "plateforme": "instagram",
       "position": "instagram_reels",
-      "spend": 6.35,
-      "clics": 11,
-      "ctr": 2.61,
-      "impressions": 422,
-      "reach": 357
+      "spend": 6.56,
+      "clics": 12,
+      "ctr": 2.8,
+      "impressions": 429,
+      "reach": 363
     },
     {
       "plateforme": "instagram",
       "position": "feed",
-      "spend": 1.91,
+      "spend": 2.16,
       "clics": 3,
-      "ctr": 1.82,
-      "impressions": 165,
-      "reach": 144
+      "ctr": 1.8,
+      "impressions": 167,
+      "reach": 147
     },
     {
       "plateforme": "facebook",
       "position": "facebook_reels_overlay",
-      "spend": 1.04,
+      "spend": 1.05,
       "clics": 8,
-      "ctr": 0.69,
-      "impressions": 1155,
-      "reach": 1098
+      "ctr": 0.68,
+      "impressions": 1169,
+      "reach": 1121
     },
     {
       "plateforme": "instagram",
       "position": "instagram_stories",
-      "spend": 0.53,
+      "spend": 0.52,
       "clics": 1,
       "ctr": 12.5,
       "impressions": 8,
@@ -58,11 +58,11 @@
     {
       "plateforme": "facebook",
       "position": "instream_video",
-      "spend": 0.47,
+      "spend": 0.49,
       "clics": 1,
-      "ctr": 2.0,
-      "impressions": 50,
-      "reach": 44
+      "ctr": 1.89,
+      "impressions": 53,
+      "reach": 47
     },
     {
       "plateforme": "facebook",
@@ -76,11 +76,11 @@
     {
       "plateforme": "facebook",
       "position": "facebook_stories",
-      "spend": 0.07,
-      "clics": 1,
-      "ctr": 16.67,
-      "impressions": 6,
-      "reach": 6
+      "spend": 0.12,
+      "clics": 2,
+      "ctr": 28.57,
+      "impressions": 7,
+      "reach": 7
     },
     {
       "plateforme": "facebook",
@@ -106,8 +106,8 @@
       "spend": 0.03,
       "clics": 0,
       "ctr": 0.0,
-      "impressions": 66,
-      "reach": 39
+      "impressions": 67,
+      "reach": 40
     },
     {
       "plateforme": "facebook",
@@ -139,7 +139,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 41.8,
+  "heuresDepuisLancement": 42.1,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 24H",
   "verdictCls": "test",
@@ -155,27 +155,27 @@
   "globalSince": "2026-07-29",
   "fenetres": {
     "global": {
-      "spend": 143.34,
+      "spend": 143.87,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 35.84,
-      "ctr": 13.06,
+      "coutATC": 35.97,
+      "ctr": 13.04,
       "cpc": 0.04,
       "cpm": 5.91,
-      "impressions": 24241,
-      "reach": 16617,
+      "impressions": 24330,
+      "reach": 16708,
       "frequency": 1.46
     },
     "depuisLancement": {
-      "spend": 86.74,
+      "spend": 87.27,
       "roas": 0.0,
       "ventes": 0,
-      "coutATC": 21.68,
+      "coutATC": 21.82,
       "ctr": 5.11,
       "cpc": 0.1,
-      "cpm": 5.3,
-      "impressions": 16358,
-      "reach": 12171,
+      "cpm": 5.31,
+      "impressions": 16447,
+      "reach": 12286,
       "frequency": 1.34
     },
     "j3": {
