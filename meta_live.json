@@ -1,5 +1,5 @@
 {
-  "updated": "03/08/2026 11:04h",
+  "updated": "03/08/2026 11:20h",
   "placements": [
     {
       "plateforme": "facebook",
@@ -7,7 +7,7 @@
       "spend": 55.69,
       "clics": 241,
       "ctr": 2.77,
-      "impressions": 8705,
+      "impressions": 8706,
       "reach": 6673
     },
     {
@@ -16,8 +16,8 @@
       "spend": 27.93,
       "clics": 616,
       "ctr": 9.46,
-      "impressions": 6508,
-      "reach": 4878
+      "impressions": 6509,
+      "reach": 4879
     },
     {
       "plateforme": "instagram",
@@ -139,7 +139,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 63.9,
+  "heuresDepuisLancement": 64.2,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 48H",
   "verdictCls": "kill",
@@ -162,9 +162,9 @@
       "ctr": 12.67,
       "cpc": 0.05,
       "cpm": 6.1,
-      "impressions": 25477,
-      "reach": 17505,
-      "frequency": 1.46
+      "impressions": 25479,
+      "reach": 17517,
+      "frequency": 1.45
     },
     "depuisLancement": {
       "spend": 98.83,
@@ -174,8 +174,8 @@
       "ctr": 5.11,
       "cpc": 0.11,
       "cpm": 5.62,
-      "impressions": 17594,
-      "reach": 13014,
+      "impressions": 17596,
+      "reach": 13021,
       "frequency": 1.35
     },
     "j3": {
@@ -186,8 +186,8 @@
       "ctr": 5.11,
       "cpc": 0.11,
       "cpm": 5.62,
-      "impressions": 17594,
-      "reach": 13014,
+      "impressions": 17596,
+      "reach": 13021,
       "frequency": 1.35
     },
     "hier": {
@@ -198,8 +198,8 @@
       "ctr": 5.51,
       "cpc": 0.11,
       "cpm": 6.22,
-      "impressions": 6276,
-      "reach": 5510,
+      "impressions": 6278,
+      "reach": 5511,
       "frequency": 1.14
     }
   }
