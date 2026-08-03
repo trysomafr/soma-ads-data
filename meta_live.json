@@ -1,10 +1,10 @@
 {
-  "updated": "03/08/2026 21:01h",
+  "updated": "03/08/2026 21:15h",
   "placements": [
     {
       "plateforme": "facebook",
       "position": "feed",
-      "spend": 55.71,
+      "spend": 55.73,
       "clics": 241,
       "ctr": 2.77,
       "impressions": 8706,
@@ -13,7 +13,7 @@
     {
       "plateforme": "facebook",
       "position": "facebook_reels",
-      "spend": 27.94,
+      "spend": 27.93,
       "clics": 617,
       "ctr": 9.47,
       "impressions": 6512,
@@ -139,7 +139,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 73.9,
+  "heuresDepuisLancement": 74.1,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 48H",
   "verdictCls": "kill",
@@ -199,7 +199,7 @@
       "cpc": 0.11,
       "cpm": 6.22,
       "impressions": 6281,
-      "reach": 5511,
+      "reach": 5514,
       "frequency": 1.14
     }
   }
