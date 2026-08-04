@@ -1,5 +1,5 @@
 {
-  "updated": "04/08/2026 02:46h",
+  "updated": "04/08/2026 03:01h",
   "fenetres": {
     "depuisLancement": {
       "sessions": 114,
@@ -24,7 +24,7 @@
     },
     {
       "channel": "Direct",
-      "sessions": 8
+      "sessions": 9
     },
     {
       "channel": "Unassigned",
