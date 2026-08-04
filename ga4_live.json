@@ -1,5 +1,5 @@
 {
-  "updated": "04/08/2026 15:31h",
+  "updated": "04/08/2026 15:45h",
   "fenetres": {
     "depuisLancement": {
       "sessions": 114,
@@ -27,11 +27,11 @@
       "sessions": 9
     },
     {
-      "channel": "Unassigned",
-      "sessions": 6
+      "channel": "Organic Social",
+      "sessions": 5
     },
     {
-      "channel": "Organic Social",
+      "channel": "Unassigned",
       "sessions": 5
     }
   ],
