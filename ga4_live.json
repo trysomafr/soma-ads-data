@@ -1,5 +1,5 @@
 {
-  "updated": "05/08/2026 01:46h",
+  "updated": "05/08/2026 02:01h",
   "fenetres": {
     "depuisLancement": {
       "sessions": 114,
@@ -7,14 +7,14 @@
       "sessionsHorsAN": 110
     },
     "j3": {
-      "sessions": 103,
-      "sessionsAN": 1,
-      "sessionsHorsAN": 102
+      "sessions": 45,
+      "sessionsAN": 0,
+      "sessionsHorsAN": 45
     },
     "hier": {
-      "sessions": 2,
+      "sessions": 0,
       "sessionsAN": 0,
-      "sessionsHorsAN": 2
+      "sessionsHorsAN": 0
     }
   },
   "channelBreakdown": [
