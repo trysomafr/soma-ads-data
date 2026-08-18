@@ -1,71 +1,71 @@
 {
-  "updated": "31/07/2026 12:40h",
+  "updated": "18/08/2026 19:30h",
   "fenetres": {
     "depuisLancement": {
-      "sessions": 29,
-      "sessionsAN": 0,
-      "sessionsHorsAN": 29
+      "sessions": 114,
+      "sessionsAN": 4,
+      "sessionsHorsAN": 110
     },
     "j3": {
-      "sessions": 29,
+      "sessions": 0,
       "sessionsAN": 0,
-      "sessionsHorsAN": 29
+      "sessionsHorsAN": 0
     },
     "hier": {
-      "sessions": 20,
+      "sessions": 0,
       "sessionsAN": 0,
-      "sessionsHorsAN": 20
+      "sessionsHorsAN": 0
     }
   },
   "channelBreakdown": [
     {
-      "channel": "Unassigned",
-      "sessions": 12
-    },
-    {
-      "channel": "Organic Social",
-      "sessions": 10
-    },
-    {
       "channel": "Paid Social",
-      "sessions": 6
+      "sessions": 95
     },
     {
       "channel": "Direct",
-      "sessions": 2
+      "sessions": 9
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 5
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 5
     }
   ],
   "parCrea": [
     {
-      "crea": "(sans tag)",
-      "sessions": 13
+      "crea": "Vidéo B",
+      "sessions": 69
     },
     {
       "crea": "Vidéo C",
+      "sessions": 15
+    },
+    {
+      "crea": "(sans tag)",
+      "sessions": 14
+    },
+    {
+      "crea": "STATIQUE 1",
+      "sessions": 8
+    },
+    {
+      "crea": "Test",
       "sessions": 4
     },
     {
-      "crea": "Vidéo+C",
-      "sessions": 4
-    },
-    {
-      "crea": "Vidéo+B",
-      "sessions": 4
+      "crea": "STATIQUE 5",
+      "sessions": 2
     },
     {
       "crea": "Nouvelle publicité de Ventes",
       "sessions": 1
     },
     {
-      "crea": "Nouvelle+publicité+de+Ventes",
-      "sessions": 1
-    },
-    {
-      "crea": "STATIQUE 1",
-      "sessions": 1
-    },
-    {
-      "crea": "STATIQUE+5",
+      "crea": "link_in_bio",
       "sessions": 1
     }
   ]
