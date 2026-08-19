@@ -1,5 +1,5 @@
 {
-  "updated": "20/08/2026 00:45h",
+  "updated": "20/08/2026 00:54h",
   "placements": [
     {
       "plateforme": "facebook",
@@ -139,7 +139,7 @@
   ],
   "campagne": "TESTING  2",
   "budgetJour": 50.0,
-  "heuresDepuisLancement": 461.6,
+  "heuresDepuisLancement": 461.7,
   "phaseCampagne": "testing",
   "checkpointNom": "CHECKPOINT 4J+",
   "verdictCls": "kill",
